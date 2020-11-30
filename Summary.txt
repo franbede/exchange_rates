@@ -1,0 +1,116 @@
+Resumen de transacciones
+-----------------------
+Se han realizado 29 compras y 10 ventas de Bitcoin
+Se han realizado 7 compras y 2 ventas de Ether
+Se han realizado 1 compras y 0 ventas de Ripple
+El gasto total en comisiones de compra y venta ha sido de 202.57 €
+
+El 19-03-2018 compré 0.0357360 XBT a 6727.39€, comisión de compra de 9.59 €. El coste es 240.41 €, y el valor total de compra es 250.00 €.
+El 19-03-2018 compré 0.1111241 ETH a 432.04€, comisión de compra de 1.99 €. El coste es 48.01 €, y el valor total de compra es 50.00 €.
+El 20-03-2018 compré 0.0137711 XBT a 6982.74€, comisión de compra de 3.84 €. El coste es 96.16 €, y el valor total de compra es 100.00 €.
+El 29-03-2018 compré 0.0235244 XBT a 6131.51€, comisión de compra de 5.76 €. El coste es 144.24 €, y el valor total de compra es 150.00 €.
+El 18-04-2018 compré 0.0223460 XBT a 6454.85€, comisión de compra de 5.76 €. El coste es 144.24 €, y el valor total de compra es 150.00 €.
+El 21-04-2018 compré 0.0131806 XBT a 7222.74€, comisión de compra de 3.80 €. El coste es 95.20 €, y el valor total de compra es 99.00 €.
+El 15-05-2018 compré 0.0132012 XBT a 7284.18€, comisión de compra de 3.84 €. El coste es 96.16 €, y el valor total de compra es 100.00 €.
+El 28-05-2018 compré 0.0076388 XBT a 6285.00€, comisión de compra de 1.99 €. El coste es 48.01 €, y el valor total de compra es 50.00 €.
+El 10-06-2018 compré 0.0154218 XBT a 6235.33€, comisión de compra de 3.84 €. El coste es 96.16 €, y el valor total de compra es 100.00 €.
+El 13-06-2018 compré 0.4650455 ETH a 413.57€, comisión de compra de 7.67 €. El coste es 192.33 €, y el valor total de compra es 200.00 €.
+El 21-06-2018 compré 0.2044435 ETH a 470.35€, comisión de compra de 3.84 €. El coste es 96.16 €, y el valor total de compra es 100.00 €.
+El 10-08-2018 compré 0.3068880 ETH a 316.37€, comisión de compra de 2.91 €. El coste es 97.09 €, y el valor total de compra es 100.00 €.
+El 13-09-2018 compré 0.7724148 ETH a 186.74€, comisión de compra de 5.76 €. El coste es 144.24 €, y el valor total de compra es 150.00 €.
+El 17-09-2018 compré 0.5658539 ETH a 169.94€, comisión de compra de 3.84 €. El coste es 96.16 €, y el valor total de compra es 100.00 €.
+El 25-11-2018 compré 0.0435193 XBT a 3314.39€, comisión de compra de 5.76 €. El coste es 144.24 €, y el valor total de compra es 150.00 €.
+El 09-12-2018 vendí 0.2000000 ETH a 95.14€, comisión de venta de 0.00 €. El coste es 19.03 €, y el valor total de venta es 19.03 €.
+El 09-12-2018 compré 57.89501 XRP a 0.27€, comisión de compra de 0.00 €. El coste es 15.50 €, y el valor total de compra es 15.50 €.
+El 12-12-2018 compré 0.0956843 XBT a 3015.02€, comisión de compra de 11.51 €. El coste es 288.49 €, y el valor total de compra es 300.00 €.
+El 26-12-2018 vendí 0.1996487 ETH a 111.83€, comisión de venta de 0.25 €. El coste es 22.33 €, y el valor total de venta es 22.58 €.
+El 26-12-2018 compré 0.0067020 XBT a 3293.55€, comisión de compra de 0.03 €. El coste es 22.07 €, y el valor total de compra es 22.10 €.
+El 10-01-2019 compré 0.1900000 XBT a 3145.00€, comisión de compra de 1.55 €. El coste es 597.55 €, y el valor total de compra es 599.10 €.
+El 10-02-2019 vendí 0.1966800 XBT a 3183.80€, comisión de venta de 1.63 €. El coste es 626.19 €, y el valor total de venta es 627.82 €.
+El 18-02-2019 compré 0.1851201 XBT a 3369.90€, comisión de compra de 1.62 €. El coste es 623.84 €, y el valor total de compra es 625.46 €.
+El 09-03-2019 compré 0.0020000 XBT a 3482.80€, comisión de compra de 0.02 €. El coste es 6.97 €, y el valor total de compra es 6.99 €.
+El 09-03-2019 compré 0.0359000 XBT a 3482.80€, comisión de compra de 0.20 €. El coste es 125.03 €, y el valor total de compra es 125.23 €.
+El 09-03-2019 compré 0.0050980 XBT a 3482.80€, comisión de compra de 0.03 €. El coste es 17.76 €, y el valor total de compra es 17.79 €.
+El 13-05-2019 vendí 0.5105951 XBT a 7020.00€, comisión de venta de 5.73 €. El coste es 3584.37 €, y el valor total de venta es 3590.10 €.
+El 13-05-2019 compré 0.5037975 XBT a 7093.30€, comisión de compra de 9.29 €. El coste es 3573.59 €, y el valor total de compra es 3582.88 €.
+El 12-06-2019 vendí 0.5037900 XBT a 7219.90€, comisión de venta de 9.46 €. El coste es 3637.31 €, y el valor total de venta es 3646.77 €.
+El 14-06-2019 compré 0.4825563 XBT a 7501.60€, comisión de compra de 9.41 €. El coste es 3619.94 €, y el valor total de compra es 3629.35 €.
+El 26-06-2019 vendí 0.4825600 XBT a 12000.50€, comisión de venta de 15.06 €. El coste es 5790.96 €, y el valor total de venta es 5806.02 €.
+El 26-06-2019 compré 0.4853207 XBT a 11882.20€, comisión de compra de 9.23 €. El coste es 5766.68 €, y el valor total de compra es 5775.91 €.
+El 26-06-2019 vendí 0.0166422 XBT a 10600.00€, comisión de venta de 0.46 €. El coste es 176.41 €, y el valor total de venta es 176.87 €.
+El 26-06-2019 vendí 0.4679336 XBT a 10600.00€, comisión de venta de 7.94 €. El coste es 4960.10 €, y el valor total de venta es 4968.04 €.
+El 26-06-2019 vendí 0.0007475 XBT a 10600.00€, comisión de venta de 0.01 €. El coste es 7.92 €, y el valor total de venta es 7.93 €.
+El 26-06-2019 vendí 0.0000012 XBT a 10600.00€, comisión de venta de 0.00 €. El coste es 0.01 €, y el valor total de venta es 0.01 €.
+El 27-06-2019 compré 0.5000000 XBT a 10200.00€, comisión de compra de 8.16 €. El coste es 5100.00 €, y el valor total de compra es 5108.16 €.
+El 27-06-2019 compré 0.1000000 ETH a 260.00€, comisión de compra de 0.04 €. El coste es 26.04 €, y el valor total de compra es 26.08 €.
+El 02-07-2019 vendí 0.5000000 XBT a 8904.70€, comisión de venta de 11.58 €. El coste es 4452.38 €, y el valor total de venta es 4463.96 €.
+El 09-07-2019 compré 0.3889000 XBT a 11347.70€, comisión de compra de 11.47 €. El coste es 4413.14 €, y el valor total de compra es 4424.61 €.
+El 06-08-2019 vendí 0.3889000 XBT a 10859.20€, comisión de venta de 10.98 €. El coste es 4223.14 €, y el valor total de venta es 4234.12 €.
+El 10-08-2019 compré 0.3049178 XBT a 10201.50€, comisión de compra de 4.98 €. El coste es 3110.62 €, y el valor total de compra es 3115.60 €.
+El 10-08-2019 compré 0.0100000 XBT a 10201.50€, comisión de compra de 0.16 €. El coste es 102.02 €, y el valor total de compra es 102.18 €.
+El 10-08-2019 compré 0.0073644 XBT a 10201.50€, comisión de compra de 0.12 €. El coste es 75.13 €, y el valor total de compra es 75.25 €.
+El 10-08-2019 compré 0.0000191 XBT a 10201.50€, comisión de compra de 0.00 €. El coste es 0.19 €, y el valor total de compra es 0.19 €.
+El 10-08-2019 compré 1E-7 XBT a 10201.50€, comisión de compra de 0.00 €. El coste es 0.00 €, y el valor total de compra es 0.00 €.
+El 10-08-2019 compré 0.0770926 XBT a 10201.50€, comisión de compra de 1.26 €. El coste es 786.46 €, y el valor total de compra es 787.72 €.
+El 10-08-2019 compré 0.0001974 XBT a 10201.50€, comisión de compra de 0.00 €. El coste es 2.01 €, y el valor total de compra es 2.01 €.
+El 10-08-2019 compré 0.0124087 XBT a 10201.50€, comisión de compra de 0.20 €. El coste es 126.59 €, y el valor total de compra es 126.79 €.
+
+Detalle de variación patrimonial
+-----------------------
+Bitcoin:
+El día 10-02-2019 se vendieron 0.03573600 XBT comprados el día 19-03-2018. Incremento parcial = -136.52 €
+El día 10-02-2019 se vendieron 0.01377110 XBT comprados el día 20-03-2018. Incremento parcial = -56.27 €
+El día 10-02-2019 se vendieron 0.02352440 XBT comprados el día 29-03-2018. Incremento parcial = -75.30 €
+El día 10-02-2019 se vendieron 0.02234600 XBT comprados el día 18-04-2018. Incremento parcial = -79.04 €
+El día 10-02-2019 se vendieron 0.01318060 XBT comprados el día 21-04-2018. Incremento parcial = -57.14 €
+El día 10-02-2019 se vendieron 0.01320120 XBT comprados el día 15-05-2018. Incremento parcial = -58.08 €
+El día 10-02-2019 se vendieron 0.00763880 XBT comprados el día 28-05-2018. Incremento parcial = -25.74 €
+El día 10-02-2019 se vendieron 0.01542180 XBT comprados el día 10-06-2018. Incremento parcial = -51.03 €
+El día 10-02-2019 se vendieron 0.04351930 XBT comprados el día 25-11-2018. Incremento parcial = -11.80 €
+El día 10-02-2019 se vendieron 0.00834080 XBT comprados el día 12-12-2018. Incremento parcial = 0.34 €
+El día 13-05-2019 se vendieron 0.08734350 XBT comprados el día 12-12-2018. Incremento parcial = 338.32 €
+El día 13-05-2019 se vendieron 0.00670200 XBT comprados el día 26-12-2018. Incremento parcial = 24.87 €
+El día 13-05-2019 se vendieron 0.19000000 XBT comprados el día 10-01-2019. Incremento parcial = 732.56 €
+El día 13-05-2019 se vendieron 0.18512010 XBT comprados el día 18-02-2019. Incremento parcial = 672.00 €
+El día 13-05-2019 se vendieron 0.00200000 XBT comprados el día 09-03-2019. Incremento parcial = 7.03 €
+El día 13-05-2019 se vendieron 0.03590000 XBT comprados el día 09-03-2019. Incremento parcial = 126.38 €
+El día 13-05-2019 se vendieron 0.00352950 XBT comprados el día 09-03-2019. Incremento parcial = 12.42 €
+El día 12-06-2019 se vendieron 0.00156850 XBT comprados el día 09-03-2019. Incremento parcial = 5.82 €
+El día 12-06-2019 se vendieron 0.50222150 XBT comprados el día 13-05-2019. Incremento parcial = 44.88 €
+El día 26-06-2019 se vendieron 0.00157600 XBT comprados el día 13-05-2019. Incremento parcial = 7.66 €
+El día 26-06-2019 se vendieron 0.48098400 XBT comprados el día 14-06-2019. Incremento parcial = 2139.51 €
+El día 26-06-2019 se vendieron 0.00157230 XBT comprados el día 14-06-2019. Incremento parcial = 4.80 €
+El día 26-06-2019 se vendieron 0.01506990 XBT comprados el día 26-06-2019. Incremento parcial = -20.02 €
+El día 26-06-2019 se vendieron 0.46793360 XBT comprados el día 26-06-2019. Incremento parcial = -616.82 €
+El día 26-06-2019 se vendieron 0.00074750 XBT comprados el día 26-06-2019. Incremento parcial = -0.99 €
+El día 26-06-2019 se vendieron 0.00000120 XBT comprados el día 26-06-2019. Incremento parcial = -0.00 €
+El día 02-07-2019 se vendieron 0.00156850 XBT comprados el día 26-06-2019. Incremento parcial = -4.74 €
+El día 02-07-2019 se vendieron 0.49843150 XBT comprados el día 27-06-2019. Incremento parcial = -665.27 €
+El día 06-08-2019 se vendieron 0.00156850 XBT comprados el día 27-06-2019. Incremento parcial = 0.96 €
+El día 06-08-2019 se vendieron 0.38733150 XBT comprados el día 09-07-2019. Incremento parcial = -211.59 €
+
+Ethereum:
+El día 09-12-2018 se vendieron 0.11112410 ETH comprados el día 19-03-2018. Incremento parcial = -39.43 €
+El día 09-12-2018 se vendieron 0.08887590 ETH comprados el día 13-06-2018. Incremento parcial = -29.77 €
+El día 26-12-2018 se vendieron 0.19964870 ETH comprados el día 13-06-2018. Incremento parcial = -63.78 €
+
+Ripple:
+No hay pares de compra/venta para esta divisa
+Resumen de variación patrimonial
+-----------------------
+Incremento neto por Bitcoin: 2047.21 €
+Incremento neto por Ethereum: -132.97 €
+Incremento neto por Ripple: 0.00 €
+El incremento patrimonial neto global es de 1914.23 €
+La cantidad que declarar a Hacienda (19.00%) es de 363.70 €
+
+Operaciones de compra restantes a compensar
+-----------------------
+El 10-08-2019 compré 0.3049178 XBT a 10201.50€, comisión de compra de 4.98 €. El coste es 3110.62 €, y el valor total de compra es 3115.60 €.
+El 10-08-2019 compré 0.0100000 XBT a 10201.50€, comisión de compra de 0.16 €. El coste es 102.02 €, y el valor total de compra es 102.18 €.
+El 10-08-2019 compré 0.0073644 XBT a 10201.50€, comisión de compra de 0.12 €. El coste es 75.13 €, y el valor total de compra es 75.25 €.
+El 10-08-2019 compré 0.0000191 XBT a 10201.50€, comisión de compra de 0.00 €. El coste es 0.19 €, y el valor total de compra es 0.19 €.
+El 10-08-2019 compré 1E-7 XBT a 10201.50€, comisión de compra de 0.00 €. El coste es 0.00 €, y el valor total de compra es 0.00 €.
+El 10-08-2019 compré 0.0770926 XBT a 10201.50€, comisión de compra de 1.26 €. El coste es 786.46 €, y el valor total de compra es 787.72 €.
+El 10-08-2019 compré 0.0001974 XBT a 10201.50€, comisión de compra de 0.00 €. El coste es 2.01 €, y el valor total de compra es 2.01 €.
+El 10-08-2019 compré 0.0124087 XBT a 10201.50€, comisión de compra de 0.20 €. El coste es 126.59 €, y el valor total de compra es 126.79 €.

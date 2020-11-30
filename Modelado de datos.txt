@@ -1,0 +1,30 @@
+Modelo de transacción (basado en Kraken)
+----------------------------------------
+Se tratan todas las transacciones como un deposit o un withdrawal, un trade es una combinacion de withdrawal en una
+divisa y de deposit en otra divisa distinta
+
+Campos:
+    - refid [string]: identificador de la transacción (si existe)
+        + para Kraken, es el campo 'refid' de los elementos de Ledger
+        + para Coinbase, --TODO
+    - time [float]: fecha y hora de la transacción (UNIX time epoch)
+    - type [string]: tipo de transacción (deposit o withdrawal)
+        + 'deposit': recepción de fondos (no hay fee)
+        + 'withdrawal': envío de fondos (hay fee)
+    - asset [string]: divisa de la transacción
+        + usar ISO-4217 para ver los nombres de los assets (Z para FIAT y X para crypto)
+    - order_type [string]: transacción a precio de mercado (market) o a precio fijo (limit)
+    - operator [string]: Coinbase/Kraken/Ledger Nano/Exodus...
+    - cost [float]: coste final de la transacción (excluyendo el fee), es decir, lo que se convierte en una nueva divisa
+    - fee [float]: comisiones de la transacción, que puede estar en FIAT (EUR, USD) o en crypto.
+    - price [float]: precio FIAT del asset en el momento de la transacción (siempre en EUR, si es USD se debe pasar a EUR)
+    - covered_amount [float]: porcentaje (entre 0 y 1) de la cantidad de esta transacción que ha sido cubierta por un withdrawal
+        (para tener en cuenta cantidades para calcular impuestos, porque se considera que los assets vendidos son los
+        primeros que fueron comprados)
+
+Comentarios adicionales:
+    1) Los fee son positivos en withdrawal y negativos en deposit
+    2) El cost se suma en los deposit, y se resta en los withdrawal
+    3) Habrá un total por cada asset, para conocer el estado actual al momento
+    4) Para calcular beneficios o pérdidas, se tiene en cuenta cost total + fee total
+    5) El precio FIAT se calcula usando la fecha de la transacción

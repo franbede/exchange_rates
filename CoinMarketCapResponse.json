@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "circulating_supply": 17906012,
+            "cmc_rank": 1,
+            "date_added": "2013-04-28T00:00:00.000Z",
+            "id": 1,
+            "last_updated": "2019-08-30T18:51:28.000Z",
+            "max_supply": 21000000,
+            "name": "Bitcoin",
+            "num_market_pairs": 7919,
+            "platform": null,
+            "quote": {
+                "USD": {
+                    "last_updated": "2019-08-30T18:51:28.000Z",
+                    "market_cap": 171155540318.86005,
+                    "percent_change_1h": -0.127291,
+                    "percent_change_24h": 0.328918,
+                    "percent_change_7d": -8.00576,
+                    "price": 9558.55163723,
+                    "volume_24h": 13728947008.2722
+                }
+            },
+            "slug": "bitcoin",
+            "symbol": "BTC",
+            "tags": [
+                "mineable"
+            ],
+            "total_supply": 17906012
+        }
+    ],
+    "status": {
+        "credit_count": 1,
+        "elapsed": 7,
+        "error_code": 0,
+        "error_message": null,
+        "timestamp": "2020-04-13T17:09:42.979Z"
+    }
+}

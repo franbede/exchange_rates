@@ -1,0 +1,502 @@
+{
+    "L2FDBS-PI3UM-OLZWZ3": {
+        "aclass": "currency",
+        "amount": "-0.5361300000",
+        "asset": "XXBT",
+        "balance": "0.0000019400",
+        "fee": "0.0000000000",
+        "refid": "T6ITSX-BPNGJ-WKC5JO",
+        "time": 1584010025.831,
+        "type": "trade"
+    },
+    "L2VABG-UYHZY-S2AHLP": {
+        "aclass": "currency",
+        "amount": "0.0770925600",
+        "asset": "XXBT",
+        "balance": "0.3993939100",
+        "fee": "0.0000000000",
+        "refid": "TC3XFX-POXMD-Z3F3TX",
+        "time": 1565436543.664,
+        "type": "trade"
+    },
+    "L2ZNAQ-F5VUH-Y7G7UJ": {
+        "aclass": "currency",
+        "amount": "-0.5160000000",
+        "asset": "XXBT",
+        "balance": "0.0000019400",
+        "fee": "0.0000000000",
+        "refid": "TYRBB3-JSQRM-HPOW66",
+        "time": 1584013002.776,
+        "type": "trade"
+    },
+    "L46H2V-TXVFG-NTKEXA": {
+        "aclass": "currency",
+        "amount": "-0.5320000000",
+        "asset": "XXBT",
+        "balance": "0.0000019400",
+        "fee": "0.0000000000",
+        "refid": "TEJYOT-NXNYB-NH5H5H",
+        "time": 1584350061.7023,
+        "type": "trade"
+    },
+    "L4FHY7-ZYGGR-HA5RJZ": {
+        "aclass": "currency",
+        "amount": "0.5160000000",
+        "asset": "XXBT",
+        "balance": "0.5160019400",
+        "fee": "0.0000000000",
+        "refid": "TPNQCJ-7YOIV-DXSWXU",
+        "time": 1584012647.6405,
+        "type": "trade"
+    },
+    "L5HG5W-MIFVJ-YZFMCR": {
+        "aclass": "currency",
+        "amount": "-3618.7175",
+        "asset": "ZEUR",
+        "balance": "0.0000",
+        "fee": "5.7899",
+        "refid": "T7ERS4-HIXWH-ZADEYW",
+        "time": 1581249424.2079,
+        "type": "trade"
+    },
+    "L5QP5H-IGYBC-RBICJP": {
+        "aclass": "currency",
+        "amount": "0.5320000000",
+        "asset": "XXBT",
+        "balance": "0.5320019400",
+        "fee": "0.0000000000",
+        "refid": "T7P3EN-XKCHH-WYWYIR",
+        "time": 1584345655.6107,
+        "type": "trade"
+    },
+    "L5TML2-GDCGZ-ZDZ6A2": {
+        "aclass": "currency",
+        "amount": "0.3830000000",
+        "asset": "XXBT",
+        "balance": "0.3830000000",
+        "fee": "0.0000000000",
+        "refid": "T4OB5K-ECJJQ-WDM7OL",
+        "time": 1586507313.9807,
+        "type": "trade"
+    },
+    "L5ZK3G-ZMBSU-JFLN4N": {
+        "aclass": "currency",
+        "amount": "-0.5310000000",
+        "asset": "XXBT",
+        "balance": "0.0000019400",
+        "fee": "0.0000000000",
+        "refid": "TN2PZB-ZOCXT-QWXP5F",
+        "time": 1584014807.3761,
+        "type": "trade"
+    },
+    "L6ELA6-HL4SM-KQ4ZML": {
+        "aclass": "currency",
+        "amount": "2854.7050",
+        "asset": "ZEUR",
+        "balance": "2847.2828",
+        "fee": "7.4222",
+        "refid": "T6ITSX-BPNGJ-WKC5JO",
+        "time": 1584010025.8314,
+        "type": "trade"
+    },
+    "L73EWA-OWQIX-U5NVZS": {
+        "aclass": "currency",
+        "amount": "-2.0142",
+        "asset": "ZEUR",
+        "balance": "147.2325",
+        "fee": "0.0032",
+        "refid": "TI6JVX-LRQFL-MYFHER",
+        "time": 1565436543.6664,
+        "type": "trade"
+    },
+    "L7ODM6-4BERW-SVLST2": {
+        "aclass": "currency",
+        "amount": "0.3049177600",
+        "asset": "XXBT",
+        "balance": "0.3049177700",
+        "fee": "0.0000000000",
+        "refid": "TZA3VO-FAWIN-SAVZWR",
+        "time": 1565436541.723,
+        "type": "trade"
+    },
+    "LBHUZV-IG2W7-YB3RDA": {
+        "aclass": "currency",
+        "amount": "0.3650000000",
+        "asset": "XXBT",
+        "balance": "0.3650019400",
+        "fee": "0.0000000000",
+        "refid": "TAQIK3-DZMPX-SMVF2T",
+        "time": 1585129854.8785,
+        "type": "trade"
+    },
+    "LBN7AY-4AP33-CCDUIC": {
+        "aclass": "currency",
+        "amount": "0.0000000500",
+        "asset": "XXBT",
+        "balance": "0.3223013500",
+        "fee": "0.0000000000",
+        "refid": "TFYX3Q-3KX6I-L7L67W",
+        "time": 1565436541.7627,
+        "type": "trade"
+    },
+    "LBP2O3-N6GCS-YCIVCA": {
+        "aclass": "currency",
+        "amount": "0.0000191000",
+        "asset": "XXBT",
+        "balance": "0.3223013000",
+        "fee": "0.0000000000",
+        "refid": "TOCWO6-A6CF6-RB2FLH",
+        "time": 1565436541.7609,
+        "type": "trade"
+    },
+    "LE5V2T-OF6PY-JBUGI4": {
+        "aclass": "currency",
+        "amount": "-2788.6422",
+        "asset": "ZEUR",
+        "balance": "1.0866",
+        "fee": "7.2505",
+        "refid": "TCZMRM-MPTRB-JAFT6Z",
+        "time": 1584013524.8996,
+        "type": "trade"
+    },
+    "LEUV6E-6KRHO-FQB4HN": {
+        "aclass": "currency",
+        "amount": "0.5310000000",
+        "asset": "XXBT",
+        "balance": "0.5310019400",
+        "fee": "0.0000000000",
+        "refid": "TCZMRM-MPTRB-JAFT6Z",
+        "time": 1584013524.9003,
+        "type": "trade"
+    },
+    "LFMH5J-U4L36-2Z3RR4": {
+        "aclass": "currency",
+        "amount": "-0.5240000000",
+        "asset": "XXBT",
+        "balance": "0.0000019400",
+        "fee": "0.0000000000",
+        "refid": "TIMHJP-XJ7X7-HDUOVU",
+        "time": 1584375787.7299,
+        "type": "trade"
+    },
+    "LFX3QR-HNHBX-R2ZHBH": {
+        "aclass": "currency",
+        "amount": "2433.0300",
+        "asset": "ZEUR",
+        "balance": "2436.4974",
+        "fee": "6.3259",
+        "refid": "TBIYNY-VQ7YH-5MTZT2",
+        "time": 1586447541.9118,
+        "type": "trade"
+    },
+    "LG2YJI-N246Z-35UH7W": {
+        "aclass": "currency",
+        "amount": "-0.0005",
+        "asset": "ZEUR",
+        "balance": "936.9680",
+        "fee": "0.0000",
+        "refid": "TFYX3Q-3KX6I-L7L67W",
+        "time": 1565436541.7623,
+        "type": "trade"
+    },
+    "LG6QGG-D6PGF-X2MQSB": {
+        "aclass": "currency",
+        "amount": "2310.0567",
+        "asset": "ZEUR",
+        "balance": "2307.3840",
+        "fee": "6.0062",
+        "refid": "TIJJZC-JIAN3-VE3JKI",
+        "time": 1584079683.375,
+        "type": "trade"
+    },
+    "LGEXW6-KSWRE-JXNTZR": {
+        "aclass": "currency",
+        "amount": "-126.5869",
+        "asset": "ZEUR",
+        "balance": "20.4431",
+        "fee": "0.2025",
+        "refid": "T232PA-26CL5-N6IFWF",
+        "time": 1565436544.5104,
+        "type": "trade"
+    },
+    "LGIYLQ-JQ3SB-GLUXFP": {
+        "aclass": "currency",
+        "amount": "0.0001974400",
+        "asset": "XXBT",
+        "balance": "0.3995913500",
+        "fee": "0.0000000000",
+        "refid": "TI6JVX-LRQFL-MYFHER",
+        "time": 1565436543.6667,
+        "type": "trade"
+    },
+    "LHCTD5-7AGNT-PFA2GJ": {
+        "aclass": "currency",
+        "amount": "2354.5461",
+        "asset": "ZEUR",
+        "balance": "2350.2567",
+        "fee": "6.1218",
+        "refid": "TIMHJP-XJ7X7-HDUOVU",
+        "time": 1584375787.7305,
+        "type": "trade"
+    },
+    "LIF7AC-VTZLJ-XILDAW": {
+        "aclass": "currency",
+        "amount": "-2795.4675",
+        "asset": "ZEUR",
+        "balance": "3.3335",
+        "fee": "7.2682",
+        "refid": "TSNTWF-ORW4N-ZSJSVX",
+        "time": 1584017649.6543,
+        "type": "trade"
+    },
+    "LK62PT-NUFEH-EJZ3JU": {
+        "aclass": "currency",
+        "amount": "-2432.0500",
+        "asset": "ZEUR",
+        "balance": "0.5561",
+        "fee": "3.8913",
+        "refid": "T4OB5K-ECJJQ-WDM7OL",
+        "time": 1586507313.9802,
+        "type": "trade"
+    },
+    "LK7BU5-FV76S-RC5BBV": {
+        "aclass": "currency",
+        "amount": "2301.3586",
+        "asset": "ZEUR",
+        "balance": "2295.5121",
+        "fee": "5.9835",
+        "refid": "TEJYOT-NXNYB-NH5H5H",
+        "time": 1584350061.7027,
+        "type": "trade"
+    },
+    "LKQZFJ-XRTOG-JZDWKL": {
+        "aclass": "currency",
+        "amount": "0.1449192400",
+        "asset": "XXBT",
+        "balance": "0.5361319400",
+        "fee": "0.0000000000",
+        "refid": "TL7SVI-R4HAW-76ULD4",
+        "time": 1583856447.8669,
+        "type": "trade"
+    },
+    "LLRDJG-G6MEG-CDEOAC": {
+        "aclass": "currency",
+        "amount": "1000.0000",
+        "asset": "ZEUR",
+        "balance": "1000.0000",
+        "fee": "0.0000",
+        "refid": "QCCAN5Y-DJ3Q2X-LFNOWA",
+        "time": 1583830376.4025,
+        "type": "deposit"
+    },
+    "LLZREO-PR5U6-L7HS5V": {
+        "aclass": "currency",
+        "amount": "0.0124086600",
+        "asset": "XXBT",
+        "balance": "0.4120000100",
+        "fee": "0.0000000000",
+        "refid": "T232PA-26CL5-N6IFWF",
+        "time": 1565436544.5111,
+        "type": "trade"
+    },
+    "LMF4Q2-75WMZ-P6XJ5A": {
+        "aclass": "currency",
+        "amount": "0.0073644300",
+        "asset": "XXBT",
+        "balance": "0.3222822000",
+        "fee": "0.0000000000",
+        "refid": "TVOJJN-WY74N-33CPTR",
+        "time": 1565436541.7587,
+        "type": "trade"
+    },
+    "LNEZLA-AKMSR-HR2PKJ": {
+        "aclass": "currency",
+        "amount": "0.0100000000",
+        "asset": "XXBT",
+        "balance": "0.3149177700",
+        "fee": "0.0000000000",
+        "refid": "T4XC5G-HDBGD-6A5A5Y",
+        "time": 1565436541.7528,
+        "type": "trade"
+    },
+    "LNRZ3W-JQT6K-YVH2QC": {
+        "aclass": "currency",
+        "amount": "0.3912127000",
+        "asset": "XXBT",
+        "balance": "0.3912127000",
+        "fee": "0.0000000000",
+        "refid": "T7ERS4-HIXWH-ZADEYW",
+        "time": 1581249424.2083,
+        "type": "trade"
+    },
+    "LOPZQO-Y3E2Y-RV5HK6": {
+        "aclass": "currency",
+        "amount": "-2836.5552",
+        "asset": "ZEUR",
+        "balance": "3.3526",
+        "fee": "7.3750",
+        "refid": "TPNQCJ-7YOIV-DXSWXU",
+        "time": 1584012647.64,
+        "type": "trade"
+    },
+    "LPGAV4-YNDRE-WCJQRV": {
+        "aclass": "currency",
+        "amount": "2800.9091",
+        "asset": "ZEUR",
+        "balance": "2796.9793",
+        "fee": "7.2824",
+        "refid": "TYRBB3-JSQRM-HPOW66",
+        "time": 1584013002.7764,
+        "type": "trade"
+    },
+    "LQ2ACJ-SD7SR-ICVYBH": {
+        "aclass": "currency",
+        "amount": "-0.4109315800",
+        "asset": "XXBT",
+        "balance": "0.0000000000",
+        "fee": "0.0010684300",
+        "refid": "TXI55P-I7HR7-P4Z6LL",
+        "time": 1580940791.4419,
+        "type": "trade"
+    },
+    "LQQN2S-LTOJ6-N4YYJJ": {
+        "aclass": "currency",
+        "amount": "-997.4067",
+        "asset": "ZEUR",
+        "balance": "0.0000",
+        "fee": "2.5933",
+        "refid": "TL7SVI-R4HAW-76ULD4",
+        "time": 1583856447.8665,
+        "type": "trade"
+    },
+    "LQRPEQ-F2EGD-L6IYRO": {
+        "aclass": "currency",
+        "amount": "0.5250000000",
+        "asset": "XXBT",
+        "balance": "0.5250019400",
+        "fee": "0.0000000000",
+        "refid": "TSNTWF-ORW4N-ZSJSVX",
+        "time": 1584017649.6548,
+        "type": "trade"
+    },
+    "LSAVAY-KPTPP-5HGEIX": {
+        "aclass": "currency",
+        "amount": "-75.1282",
+        "asset": "ZEUR",
+        "balance": "937.1637",
+        "fee": "0.1202",
+        "refid": "TVOJJN-WY74N-33CPTR",
+        "time": 1565436541.7583,
+        "type": "trade"
+    },
+    "LTX4JK-7QD24-XDCUIH": {
+        "aclass": "currency",
+        "amount": "0.5240000000",
+        "asset": "XXBT",
+        "balance": "0.5240019400",
+        "fee": "0.0000000000",
+        "refid": "T7HSR5-UMSFN-ANVYN7",
+        "time": 1584350927.2107,
+        "type": "trade"
+    },
+    "LVBBPA-AJS6R-ED6W65": {
+        "aclass": "currency",
+        "amount": "-2334.3940",
+        "asset": "ZEUR",
+        "balance": "9.7933",
+        "fee": "6.0694",
+        "refid": "TAQIK3-DZMPX-SMVF2T",
+        "time": 1585129854.878,
+        "type": "trade"
+    },
+    "LVTY6L-6Q4QT-4C6JBF": {
+        "aclass": "currency",
+        "amount": "3604.0643",
+        "asset": "ZEUR",
+        "balance": "3624.5074",
+        "fee": "0.0000",
+        "refid": "TXI55P-I7HR7-P4Z6LL",
+        "time": 1580940791.4422,
+        "type": "trade"
+    },
+    "LW4QVP-H7FKY-YOH2UJ": {
+        "aclass": "currency",
+        "amount": "-0.1949",
+        "asset": "ZEUR",
+        "balance": "936.9685",
+        "fee": "0.0003",
+        "refid": "TOCWO6-A6CF6-RB2FLH",
+        "time": 1565436541.7605,
+        "type": "trade"
+    },
+    "LWHVDJ-6LOHI-JGMLYS": {
+        "aclass": "currency",
+        "amount": "-2301.2636",
+        "asset": "ZEUR",
+        "balance": "0.1370",
+        "fee": "5.9834",
+        "refid": "T7P3EN-XKCHH-WYWYIR",
+        "time": 1584345655.6099,
+        "type": "trade"
+    },
+    "LWJ6FY-32DYV-PLL5RX": {
+        "aclass": "currency",
+        "amount": "-0.3650019400",
+        "asset": "XXBT",
+        "balance": "0.0000000000",
+        "fee": "0.0000000000",
+        "refid": "TBIYNY-VQ7YH-5MTZT2",
+        "time": 1586447541.9115,
+        "type": "trade"
+    },
+    "LXH63L-GFWVE-7BVF5X": {
+        "aclass": "currency",
+        "amount": "2812.2945",
+        "asset": "ZEUR",
+        "balance": "2806.0692",
+        "fee": "7.3119",
+        "refid": "TN2PZB-ZOCXT-QWXP5F",
+        "time": 1584014807.3765,
+        "type": "trade"
+    },
+    "LYG3VY-MJBES-B4HN7B": {
+        "aclass": "currency",
+        "amount": "-102.0150",
+        "asset": "ZEUR",
+        "balance": "1012.4121",
+        "fee": "0.1632",
+        "refid": "T4XC5G-HDBGD-6A5A5Y",
+        "time": 1565436541.7523,
+        "type": "trade"
+    },
+    "LZ4QGX-NZE7B-RDMCZ3": {
+        "aclass": "currency",
+        "amount": "-0.5250000000",
+        "asset": "XXBT",
+        "balance": "0.0000019400",
+        "fee": "0.0000000000",
+        "refid": "TIJJZC-JIAN3-VE3JKI",
+        "time": 1584079683.3745,
+        "type": "trade"
+    },
+    "LZCAAA-UGH55-ZAD3WO": {
+        "aclass": "currency",
+        "amount": "-786.4598",
+        "asset": "ZEUR",
+        "balance": "149.2499",
+        "fee": "1.2583",
+        "refid": "TC3XFX-POXMD-Z3F3TX",
+        "time": 1565436543.6635,
+        "type": "trade"
+    },
+    "LZXWAL-HLNIF-Y3FHAF": {
+        "aclass": "currency",
+        "amount": "-2287.7316",
+        "asset": "ZEUR",
+        "balance": "1.8324",
+        "fee": "5.9481",
+        "refid": "T7HSR5-UMSFN-ANVYN7",
+        "time": 1584350927.2101,
+        "type": "trade"
+    }
+}
